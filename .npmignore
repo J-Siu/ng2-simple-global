@@ -1,0 +1,11 @@
+.DS_Store
+.git
+.gitignore
+.vscode
+examples
+node_modules
+npm-debug.log
+src
+tsconfig.json
+typings
+typings.json
