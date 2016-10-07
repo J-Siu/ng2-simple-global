@@ -79,6 +79,8 @@ and it will be accessible to all component using the service.
 
 [ng2-simple-global-example](https://github.com/J-Siu/ng2-simple-global-example)
 
+[plunker](http://plnkr.co/J4GvVp)
+
 ## Contributors
 
 * John Sing Dao Siu (<john.sd.siu@gmail.com>)
@@ -89,6 +91,9 @@ and it will be accessible to all component using the service.
 * 1.2.0
 	- Support Angular 2.0.0
 	- Clean up package
+* 1.2.1
+	- Add license file
+	- Add punker example
 
 ## License
 
