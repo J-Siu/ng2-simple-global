@@ -6,6 +6,7 @@ A simple global variable service for Angular 2.
 
 - [Install](#install)
 - [Usage](#usage)
+- [Repository](#Repository)
 - [Example](#example)
 - [Contributors](#contributors)
 - [Changelog](#changelog)
@@ -74,6 +75,10 @@ export class ChildComponent {
 
 Treat `SimpleGlobal` instance as a global object and create/assign additional attributes freely,
 and it will be accessible to all component using the service.
+
+## Repository
+
+[ng2-simple-global](https://github.com/J-Siu/ng2-simple-global)
 
 ## Example
 
