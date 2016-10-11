@@ -72,7 +72,7 @@ export class ChildComponent {
 }
 ```
 
-Treat `SimpleGlobal` instance as an object and create/assign additional attributes freely,
+Treat `SimpleGlobal` instance as a global object and create/assign additional attributes freely,
 and it will be accessible to all component using the service.
 
 ## Example
@@ -83,7 +83,7 @@ and it will be accessible to all component using the service.
 
 ## Contributors
 
-* John Sing Dao Siu (<john.sd.siu@gmail.com>)
+* [John Sing Dao Siu](https://github.com/J-Siu)
 
 
 ## Changelog
@@ -94,6 +94,9 @@ and it will be accessible to all component using the service.
 * 1.2.1
 	- Add license file
 	- Add punker example
+* 1.2.2
+	- Update package.json
+	- Update Readme.md
 
 ## License
 
