@@ -8,7 +8,11 @@
 		"removeComments": true,
 		"sourceMap": true,
 		"outDir": "./lib",
-		"declaration": true
+		"declaration": true,
+		"lib": [
+			"es2015",
+			"dom"
+		]
 	},
 	"exclude": [
 		"node_modules",

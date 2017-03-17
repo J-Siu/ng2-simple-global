@@ -73,8 +73,7 @@ export class ChildComponent {
 }
 ```
 
-Treat `SimpleGlobal` instance as a global object and create/assign additional attributes freely,
-and it will be accessible to all component using the service.
+Treat `SimpleGlobal` instance as a global object and create/assign additional attributes freely, and it will be accessible to all component using the service.
 
 ## Repository
 
@@ -94,7 +93,7 @@ and it will be accessible to all component using the service.
 ## Changelog
 
 * 1.2.0
-	- Support Angular 2.0.0
+	- Support Angular ^2.0.0
 	- Clean up package
 * 1.2.1
 	- Add license file
@@ -102,12 +101,14 @@ and it will be accessible to all component using the service.
 * 1.2.2
 	- Update package.json
 	- Update Readme.md
+* 1.2.3
+	- Support Angular2 ^2.4.1
 
 ## License
 
 The MIT License
 
-Copyright (c) 2016
+Copyright (c) 2017
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
