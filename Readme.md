@@ -103,6 +103,9 @@ Treat `SimpleGlobal` instance as a global object and create/assign additional at
 	- Update Readme.md
 * 1.2.3
 	- Support Angular2 ^2.4.1
+* 1.2.4
+	- Due to the rapid release cycle of Angular, to minimize update purely due to `peerDependencies`, it is modified as follow:
+		`"peerDependencies": { "@angular/core": ">=2.4.0" }`
 
 ## License
 

@@ -29,8 +29,7 @@
     "build": "rm -rf lib && tsc"
   },
   "peerDependencies": {
-    "@angular/core": "^2.4.1",
-    "rxjs": "5.0.1"
+    "@angular/core": ">=2.4.0"
   },
   "devDependencies": {
     "@angular/core": "^2.4.1",
