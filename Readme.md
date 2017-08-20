@@ -1,6 +1,6 @@
 # ng2-simple-global
 
-A simple global variable service for Angular 2.
+A simple global variable service for Angular.
 
 ## Index
 
@@ -106,6 +106,8 @@ Treat `SimpleGlobal` instance as a global object and create/assign additional at
 * 1.2.4
 	- Due to the rapid release cycle of Angular, to minimize update purely due to `peerDependencies`, it is modified as follow:
 		`"peerDependencies": { "@angular/core": ">=2.4.0" }`
+* 1.2.5
+	- Update to support Angular 4.3.1. Please use previous version for Angular 2.x.x.
 
 ## License
 
