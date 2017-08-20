@@ -1,7 +1,7 @@
 {
   "name": "ng2-simple-global",
   "description": "Angular simple global variable service",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "license": "MIT",
   "author": {
     "name": "John, Sing Dao, Siu",
