@@ -2,6 +2,12 @@
 
 A simple global variable service for Angular.
 
+> To enable faster update, ng2-simple-global switched to Angular CLI starting 8.2.0 and use new repository https://github.com/J-Siu/ng2-simple-global-lib/
+>
+> Project contains both library and example.
+>
+> All version < 8.2.0 are in old repository https://github.com/J-Siu/ng2-simple-global/
+
 ## Index
 
 - [Install](#install)
