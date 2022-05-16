@@ -1,4 +1,4 @@
-# ng2-simple-global
+# Angular Simple Global [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
 A simple global variable service for Angular.
 
@@ -8,25 +8,30 @@ A simple global variable service for Angular.
 >
 > All version < 8.2.0 are in old repository https://github.com/J-Siu/ng2-simple-global/
 
-## Index
+### Table Of Content
+<!-- TOC -->
 
 - [Install](#install)
 - [Usage](#usage)
-- [Repository](#Repository)
+  - [Import into Angular 2 application typescript](#import-into-angular-2-application-typescript)
+  - [API](#api)
+- [Repository](#repository)
 - [Example](#example)
 - [Contributors](#contributors)
 - [Changelog](#changelog)
 - [License](#license)
 
-## Install
+<!-- /TOC -->
+
+### Install
 
 ```
 npm install ng2-simple-global
 ```
 
-## Usage
+### Usage
 
-### Import into Angular 2 application (typescript)
+#### Import into Angular 2 application (typescript)
 
 `ng2-simple-global` is implemented as Angular 2 injectable service name __SimpleGlobal__.
 
@@ -54,7 +59,7 @@ export class ChildComponent {
 }
 ```
 
-### API
+#### API
 
 ```javascript
 import {SimpleGlobal} from 'ng2-simple-global';
@@ -81,22 +86,22 @@ export class ChildComponent {
 
 Treat `SimpleGlobal` instance as a global object and create/assign additional attributes freely, and it will be accessible to all component using the service.
 
-## Repository
+### Repository
 
 [ng2-simple-global](https://github.com/J-Siu/ng2-simple-global)
 
-## Example
+### Example
 
 [ng2-simple-global-example](https://github.com/J-Siu/ng2-simple-global-example)
 
 [plunker](http://plnkr.co/J4GvVp)
 
-## Contributors
+### Contributors
 
 * [John Sing Dao Siu](https://github.com/J-Siu)
 
 
-## Changelog
+### Changelog
 
 * 1.2.0
 	- Support Angular ^2.0.0
@@ -115,7 +120,7 @@ Treat `SimpleGlobal` instance as a global object and create/assign additional at
 * 1.2.5
 	- Update to support Angular 4.3.1. Please use previous version for Angular 2.x.x.
 
-## License
+### License
 
 The MIT License
 
